@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m _Youssuf_
 
-<!--
-**YoussufSalah/YoussufSalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 16-year-old self-taught SQL & backend developer building real-world freelance-level projects using PostgreSQL.
 
-Here are some ideas to get you started:
+## 💡 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Design clean, normalized databases
+- ✅ Write powerful analytical queries using `JOIN`, `CTE`, `RANK`, and more
+- ✅ Simulate client requests and deliver end-to-end systems
+- ✅ Practice with production-ready relational schemas
+
+---
+
+## 💼 Projects
+
+| Project | Description |
+|--------|-------------|
+| [🏨 Hotel Booking System](https://github.com/YoussufSalah/hotel-booking-system-sql.git) | Multi-room guest bookings, payments, and availability logic |
+| [🛒 E-Commerce Inventory](https://github.com/YoussufSalah/ecommerce-orders-inventory-sql.git) | Order management, payments, inventory, and revenue analysis |
+| [🎟️ Event Ticketing System](https://github.com/YoussufSalah/event-ticketing-system-sql.git) | Attendee registration, ticket types, and financial queries |
+
+---
+
+## 🛠 Tech Stack
+
+- PostgreSQL
+- SQL (DDL, DML, analytics)
+- ERD design tools (dbdiagram.io)
+- Some Node.js (for backend integration)
+
+---
+
+## 📫 Contact Me
+
+- Email: `business.youssuf@gmail.com`
+
+---
+
+📌 *This GitHub is a portfolio in progress. More projects soon!*
