@@ -22,6 +22,7 @@
 
 | 💼 Project | 🔍 Description |
 |-----------|----------------|
+| [`Gym Management System`](https://github.com/YoussufSalah/gym-management-system-sql) | A real-world database project with membership tracking, trainer-led sessions, health progress logging, and smart revenue analytics. |
 | [`Hotel Booking System`](https://github.com/YoussufSalah/hotel-booking-system-sql) | Multi-room, date-sensitive booking logic with guest analytics and payment tracking |
 | [`E-Commerce Orders & Inventory`](https://github.com/YoussufSalah/ecommerce-orders-inventory-sql) | Full order-to-payment lifecycle with revenue, inventory and customer analysis |
 | [`Event Ticketing System`](https://github.com/YoussufSalah/event-ticketing-system-sql) | Event management with ticket types, attendee history, and financial reports |
