@@ -27,8 +27,9 @@
 | [`E-Commerce Orders & Inventory`](https://github.com/YoussufSalah/ecommerce-orders-inventory-sql) | Full order-to-payment lifecycle with revenue, inventory and customer analysis |
 | [`Event Ticketing System`](https://github.com/YoussufSalah/event-ticketing-system-sql) | Event management with ticket types, attendee history, and financial reports |
 
----
+[![View My Freelance Packages](https://img.shields.io/badge/Freelance%20Packages-%F0%9F%92%BC-blueviolet?style=for-the-badge)](https://github.com/YoussufSalah/freelance-packages)
 
+---
 ## 📈 GitHub Stats
 
 <p align="center">
